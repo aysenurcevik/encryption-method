@@ -1,0 +1,14 @@
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\bin\Debug\net8.0\CaesarEncryptionMethod.exe
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\bin\Debug\net8.0\CaesarEncryptionMethod.deps.json
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\bin\Debug\net8.0\CaesarEncryptionMethod.runtimeconfig.json
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\bin\Debug\net8.0\CaesarEncryptionMethod.dll
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\bin\Debug\net8.0\CaesarEncryptionMethod.pdb
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\CaesarEncryptionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\CaesarEncryptionMethod.AssemblyInfoInputs.cache
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\CaesarEncryptionMethod.AssemblyInfo.cs
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\CaesarEncryptionMethod.csproj.CoreCompileInputs.cache
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\CaesarEncryptionMethod.dll
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\refint\CaesarEncryptionMethod.dll
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\CaesarEncryptionMethod.pdb
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\CaesarEncryptionMethod.genruntimeconfig.cache
+C:\ProjectFolder\CaesarEncryptionMethod\CaesarEncryptionMethod\obj\Debug\net8.0\ref\CaesarEncryptionMethod.dll
